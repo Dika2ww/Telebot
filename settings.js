@@ -17,11 +17,11 @@ global.APIKeys = {
 //language 
 global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
 
-global.BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN" //create bot here https://t.me/BotFather and get the bot token
+global.BOT_TOKEN = "6715685734:AAH-gM5Tn9pF3Gn6F4hzLJ5OuO3msfyp1OA" //create bot here https://t.me/BotFather and get the bot token
 global.BOT_NAME = "dikaagntg" //your bot name
 global.OWNER_NAME = "dika aj" //your name
 global.OWNER_NUMBER = "6283895445320" //your telegram number
 global.OWNER = ["https://t.me/dikayourfavv", "https://t.me/pria7dimensi"] // pastikan username sudah sesuai agar fitur khusus owner bisa di pakai
-global.THUMBNAIL = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.DONASI = "./image/donasi.jpg" // foto donasi di folder image
+global.THUMBNAIL = "" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.DONASI = "" // foto donasi di folder image
 global.lang = language //don't change
